@@ -5,7 +5,7 @@ Aplicação Streamlit que extrai dados de grafo (entidades e relacionamentos) de
 ![CleanShot 2025-05-28 at 13 11 46](https://github.com/user-attachments/assets/4fef9158-8dd8-432d-bb8a-b53953a82c6c)
 
 👉 Este repositório foi inspirado no tutorial de Thu Vu:
-[![](https://img.youtube.com/vi/O-T_6KOXML4/0.jpg)](https://www.youtube.com/watch?v=O-T_6KOXML4)
+[(https://img.youtube.com/vi/O-T_6KOXML4/0.jpg)](https://www.youtube.com/watch?v=O-T_6KOXML4)
 
 ## Funcionalidades
 
